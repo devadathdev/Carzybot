@@ -1,0 +1,9 @@
+{
+  "name": "crazy-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crazy Bot — local-first multi-agent personal assistant MVP",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
